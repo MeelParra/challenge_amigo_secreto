@@ -29,7 +29,7 @@ Este proyecto fue desarrollado para el Challenge Amigo Secreto del curso de Alur
 ## Acceso al proyecto
 Puedes acceder al proyecto de las siguientes maneras:
 * Clonando el repositorio:
-  git clone https://github.com/tu-usuario/nombre-del-repo.git
+  [git clone https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/MeelParra/challenge_amigo_secreto)
 * Abriendo la URL del proyecto:
   
 ## Tecnologías utilizadas
